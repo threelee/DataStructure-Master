@@ -53,11 +53,15 @@ export const linearStructure = {
 									["[예제] 이중 연결리스트의 연산 횟수를 구하는 예제", "https://www.acmicpc.net/problem/3045"],]}
 						},
 						{
-							name: "분기된 자료구조명(ex단순연결리스트)",
+							name: "원형연결리스트",
 							description: {
-								text: "text",
+								text: "원형연결리스트 (Circular Linked List) : 일반적인 연결 리스트에 마지막 노드와 처음 노드를 연결시켜 원형으로 만든 자료구조",
 								links: [
-									["name", "html"],]}
+									["[문서] C++로 구현하는 원형 연결리스트", "https://codechacha.com/ko/circular-linked-list-in-cpp/"],
+									["[문서] 원형 연결리스트 분석", "https://velog.io/@mmindoong/자료구조-원형-연결-리스트-Circular-Linked-List"],
+									["[강의] C로 풀어낸 원형 연결리스트", "https://www.youtube.com/watch?v=FAvrRwjR27A"],
+									["[강의] 원형 연결리스트 분석 및 구현", "https://www.youtube.com/watch?v=2nHClCA-9tw"],
+									["[예제] 원형 리스트 연산 결과를 예측하는 예제", "https://euleroj.io/problemset/viewer/3169"],]}
 						},
 					]
 				},
