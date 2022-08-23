@@ -7,7 +7,8 @@ import {simpleStructure} from "./data/simpleStructure.js";
  * All available collections.
  */
 export const collections = [
+	simpleStructure,
 	linearStructure,
 	nonLinearStructure,
-	simpleStructure,
+	
 ];

@@ -74,11 +74,11 @@ export const nonLinearStructure = {
 			]
 		},
 		{
-			name: "구조명",
+			name: "분기될 자료구조명(ex연결리스트)",
 			skills: [
 
 				{
-					name: "자료구조명",
+					name: "분기될 자료구조명(ex연결리스트)",
 					description: {
 						text: "text",
 						links: [
@@ -88,7 +88,7 @@ export const nonLinearStructure = {
 
 					skills: [
 						{
-							name: "세분화된자료구조명",
+							name: "분기된 자료구조명(ex단순연결리스트)",
 							description: {
 								text: "text",
 								links: [
