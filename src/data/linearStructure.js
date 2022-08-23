@@ -42,11 +42,15 @@ export const linearStructure = {
 									]}
 						},
 						{
-							name: "분기된 자료구조명(ex단순연결리스트)",
+							name: "이중연결리스트",
 							description: {
-								text: "text",
+								text: "이중연결리스트 (Doubly linked list) : 단일 연결 리스트와 비슷하지만, 포인터 공간이 두 개가 있고 각각의 포인터는 앞의 노드와 뒤의 노드를 가리키는 자료구조",
 								links: [
-									["name", "html"],]}
+									["[문서] 이중 연결리스트 개념설명", "https://opentutorials.org/module/1335/8940"],
+									["[문서] 이중 연결리스트 구현", "https://velog.io/@mmindoong/자료구조-이중-연결-리스트Doubly-Linked-List"],
+									["[강의] 이중 연결리스트 대학 강의 ", "https://www.youtube.com/watch?v=0FlCrw3B4mE"],
+									["[강의] C로 구현하는 이중 연결리스트", "https://www.youtube.com/watch?v=iSdEHxVJ5vk"],
+									["[예제] 이중 연결리스트의 연산 횟수를 구하는 예제", "https://www.acmicpc.net/problem/3045"],]}
 						},
 						{
 							name: "분기된 자료구조명(ex단순연결리스트)",
