@@ -19,16 +19,13 @@ export const linearStructure = {
 			]
 		},
 		{
-			name: "분기될 자료구조명(ex연결리스트)",
+			name: "연결리스트",
 			skills: [
 
 				{
-					name: "분기될 자료구조명(ex연결리스트)",
+					name: "연결리스트",
 					description: {
-						text: "text",
-						links: [
-							["name", "html"],
-						]
+						text: "각 노드가 데이터와 포인터를 가지고 한 줄로 연결되어 있는 방식으로 데이터를 저장하는 자료 구조",
 					},
 
 					skills: [
