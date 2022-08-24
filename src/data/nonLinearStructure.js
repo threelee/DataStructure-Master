@@ -14,11 +14,16 @@ export const nonLinearStructure = {
 
 					skills: [
 						{
-							name: "분기된 자료구조명(ex단순연결리스트)",
+							name: "일반트리",
 							description: {
-								text: "text",
+								text: "일반트리 (Tree) : 데이터들을 간선으로 연결한 계층형 자료구조",
 								links: [
-									["name", "html"],]}
+									["[문서] 트리 정의, 구조", "https://kingpodo.tistory.com/26?category=805745"],
+									["[강의] 트리 자료구조 10분 요약", "https://youtu.be/i5yHkP1jQmo"],
+									["[예제] 트리의 부모를 찾는 예제", "https://www.acmicpc.net/problem/11725"],
+									["[예제] 주어진 그래프가 트리인지 판별하는 예제", "https://www.acmicpc.net/problem/4803"],
+									["[예제] 트리 순회 순서를 구하는예제", "https://www.acmicpc.net/problem/2263"],
+								]}
 						},
 						{
 							name: "분기된 자료구조명(ex단순연결리스트)",
