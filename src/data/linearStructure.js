@@ -24,39 +24,49 @@ export const linearStructure = {
 			]
 		},
 		{
-			name: "분기될 자료구조명(ex연결리스트)",
+			name: "연결리스트",
 			skills: [
 
 				{
-					name: "분기될 자료구조명(ex연결리스트)",
+					name: "연결리스트",
 					description: {
-						text: "text",
-						links: [
-							["name", "html"],
-						]
+						text: "각 노드가 데이터와 포인터를 가지고 한 줄로 연결되어 있는 방식으로 데이터를 저장하는 자료 구조",
 					},
 
 					skills: [
 						{
-							name: "분기된 자료구조명(ex단순연결리스트)",
+							name: "단순연결리스트",
 							description: {
-								text: "text",
+								text: "단순연결리스트 (Singly Linked List) : 각 노드에 자료 공간과 한 개의 포인터 공간이 있고, 각 노드의 포인터는 다음 노드를 가리키는 자료구조",
 								links: [
-									["name", "html"],]}
+									["[문서] 자바로 단일 연결리스트 구현하기", "https://galid1.tistory.com/92"],
+									["[문서] C언어로 단일 연결리스트 구현하기", " https://happysalmon.tistory.com/74"],
+									["[강의] C언어로 단일 연결리스트 구현하기", "https://www.youtube.com/watch?v=3ZdafcIvREw"],
+									["[강의] 단일 연결리스트 분석", "https://www.youtube.com/watch?v=PtrlTt1hPJg"],
+									["[예제] 연결리스트를 활용해 특정 규칙의 에디터를 구현하는 예제", "https://www.youtube.com/watch?v=PtrlTt1hPJg"],
+									]}
 						},
 						{
-							name: "분기된 자료구조명(ex단순연결리스트)",
+							name: "이중연결리스트",
 							description: {
-								text: "text",
+								text: "이중연결리스트 (Doubly linked list) : 단일 연결 리스트와 비슷하지만, 포인터 공간이 두 개가 있고 각각의 포인터는 앞의 노드와 뒤의 노드를 가리키는 자료구조",
 								links: [
-									["name", "html"],]}
+									["[문서] 이중 연결리스트 개념설명", "https://opentutorials.org/module/1335/8940"],
+									["[문서] 이중 연결리스트 구현", "https://velog.io/@mmindoong/자료구조-이중-연결-리스트Doubly-Linked-List"],
+									["[강의] 이중 연결리스트 대학 강의 ", "https://www.youtube.com/watch?v=0FlCrw3B4mE"],
+									["[강의] C로 구현하는 이중 연결리스트", "https://www.youtube.com/watch?v=iSdEHxVJ5vk"],
+									["[예제] 이중 연결리스트의 연산 횟수를 구하는 예제", "https://www.acmicpc.net/problem/3045"],]}
 						},
 						{
-							name: "분기된 자료구조명(ex단순연결리스트)",
+							name: "원형연결리스트",
 							description: {
-								text: "text",
+								text: "원형연결리스트 (Circular Linked List) : 일반적인 연결 리스트에 마지막 노드와 처음 노드를 연결시켜 원형으로 만든 자료구조",
 								links: [
-									["name", "html"],]}
+									["[문서] C++로 구현하는 원형 연결리스트", "https://codechacha.com/ko/circular-linked-list-in-cpp/"],
+									["[문서] 원형 연결리스트 분석", "https://velog.io/@mmindoong/자료구조-원형-연결-리스트-Circular-Linked-List"],
+									["[강의] C로 풀어낸 원형 연결리스트", "https://www.youtube.com/watch?v=FAvrRwjR27A"],
+									["[강의] 원형 연결리스트 분석 및 구현", "https://www.youtube.com/watch?v=2nHClCA-9tw"],
+									["[예제] 원형 리스트 연산 결과를 예측하는 예제", "https://euleroj.io/problemset/viewer/3169"],]}
 						},
 					]
 				},
