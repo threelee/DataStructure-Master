@@ -70,11 +70,16 @@ export const nonLinearStructure = {
 								]}
 						},
 						{
-							name: "분기된 자료구조명(ex단순연결리스트)",
+							name: "무방향 그래프 ",
 							description: {
-								text: "text",
+								text: "무방향 그래프 (Undirected Graph) : 정점 간에 방향성이 없는 그래프",
 								links: [
-									["name", "html"],]}
+									["[문서] 기술용어 해설", "http://www.ktword.co.kr/test/view/view.php?nav=2&no=4843&sh=%EB%B0%A9%ED%96%A5%EA%B7%B8%EB%9E%98%ED%94%84"],
+									["[강의] Detect Cycle in Undirected Graph", "https://www.youtube.com/watch?v=vXrv3kruvwE"],
+									["[강의] Graph Types Directed and Undirected Graph", "https://www.youtube.com/watch?v=amaH38_mXK4"],
+									["[예제] 무방향 그래프 예제", "https://kr.mathworks.com/help/matlab/math/directed-and-undirected-graphs.html"],
+									["[예제] 무방향 그래프 구현 예제", "https://jackpot53.tistory.com/79"],
+								]}
 						},
 					]
 				},
