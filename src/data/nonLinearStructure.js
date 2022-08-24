@@ -58,11 +58,16 @@ export const nonLinearStructure = {
 
 					skills: [
 						{
-							name: "분기된 자료구조명(ex단순연결리스트)",
+							name: "방향 그래프",
 							description: {
-								text: "text",
+								text: "방향 그래프 (Directed Graph) : 정점 간에 방향성이 있는 그래프",
 								links: [
-									["name", "html"],]}
+									["[문서] 기술용어 해설", "http://www.ktword.co.kr/test/view/view.php?nav=2&no=4843&sh=%EB%B0%A9%ED%96%A5%EA%B7%B8%EB%9E%98%ED%94%84"],
+									["[강의] 방향 그래프", "https://www.youtube.com/watch?v=7SCXueORDHw"],
+									["[강의] 방향 그래프 개요", "https://www.youtube.com/watch?v=ZjJoXjz3nvk"],
+									["[예제] 가중치 방향 그래프 예제", "https://u-u002.tistory.com/141"],
+									["[예제] 방향 그래프에서 사이클 찾기 예제", "https://hongl.tistory.com/60"],
+								]}
 						},
 						{
 							name: "분기된 자료구조명(ex단순연결리스트)",
