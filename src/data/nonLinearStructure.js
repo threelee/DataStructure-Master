@@ -3,16 +3,13 @@ export const nonLinearStructure = {
 	areas: [
 		
 		{
-			name: "분기될 자료구조명(ex연결리스트)",
+			name: "트리",
 			skills: [
 
 				{
-					name: "분기될 자료구조명(ex연결리스트)",
+					name: "트리",
 					description: {
-						text: "text",
-						links: [
-							["name", "html"],
-						]
+						text: "트리 (Tree) : 방향성이 있는 비순환 그래프의 한 종류",
 					},
 
 					skills: [
