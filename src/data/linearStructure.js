@@ -123,16 +123,19 @@ export const linearStructure = {
 			]
 		},
 		{
-			name: "자료구조명",
+			name: "덱",
 			skills: [
 
 
 				{
-					name: "자료구조명",
+					name: "덱",
 					description: {
-						text: "text",
+						text: "덱 (Deque) : 스택, 큐가 함께 결합된 선형 자료구조",
 						links: [
-							["name", "html"],
+							["[문서] 덱의 정의, 특징", "http://www.ktword.co.kr/test/view/view.php?nav=2&no=5302&sh=%EB%8D%B0%ED%81%AC"],
+							["[강의] 덱의 개념, 정의", "https://www.youtube.com/watch?v=gGTCudmhpKc&feature=youtu.be"],
+							["[예제] 덱을 구현하여 프로그램을 처리하는 예제", "https://www.acmicpc.net/problemset?search=%EB%8D%B1"],
+							["[예제] 덱을 구현하여 요소를 오름차순으로 정리하는 예제", "https://www.acmicpc.net/problemset?search=%EB%8D%B0%ED%81%AC"],
 						]
 					}
 				},
