@@ -44,7 +44,7 @@ export const nonLinearStructure = {
 				{
 					name: "그래프",
 					description: {
-						text: "그래프 (Graph): 이해를 돕기위해 단순화시킨 그림",
+						text: "그래프 (Graph) : 이해를 돕기위해 단순화시킨 그림",
 						links: [
 							["[문서] 기술용어 해설", "http://www.ktword.co.kr/test/view/view.php?nav=2&no=3980&sh=%EA%B7%B8%EB%9E%98%ED%94%84"],
 							["[강의] Graphs - 그래프", "https://www.youtube.com/watch?v=QYbKqENoIAo"],
