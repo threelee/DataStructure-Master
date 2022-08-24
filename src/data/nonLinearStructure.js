@@ -46,16 +46,14 @@ export const nonLinearStructure = {
 			]
 		},
 		{
-			name: "분기될 자료구조명(ex연결리스트)",
+			name: "그래프",
 			skills: [
 
 				{
-					name: "분기될 자료구조명(ex연결리스트)",
+					name: "그래프",
 					description: {
-						text: "text",
-						links: [
-							["name", "html"],
-						]
+						text: "그래프 (Graph) : 이해를 돕기위해 단순화시킨 그림",
+						
 					},
 
 					skills: [
