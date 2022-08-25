@@ -736,7 +736,7 @@ export class App extends LitElement {
 					<a href="https://www.oss.kr/" target="_blank" aria-label="Buy coffee" rel="noopener">
 						<ws-button>☕️ 오픈소스소프트웨어</ws-button>
 					</a>
-				</div>ㄴ
+				</div>
 			</footer>
 			<ws-blur id="blur"></ws-blur>
 		`;
