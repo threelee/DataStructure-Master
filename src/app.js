@@ -727,19 +727,14 @@ export class App extends LitElement {
 			</main>
 			<footer id="footer">
 				<div>
-					${user != null ? html`
-						<ws-button @click="${signOut}">🔓 Sign out</ws-button>
-					` : html`
-						<ws-button @click="${signIn}">🔒 Sign in with Google</ws-button>
-					`}
-					<a href="https://github.com/andreasbm/web-skills/stargazers" target="_blank" aria-label="Become a stargazer" rel="noopener">
-						<ws-button>⭐️ Become a stargazer</ws-button>
+					<a href="https://github.com/threelee/DataStructure-Master/stargazers" target="_blank" aria-label="Become a stargazer" rel="noopener">
+						<ws-button>⭐️스타누르기</ws-button>
 					</a>
-					<a href="https://twitter.com/AndreasMehlsen" target="_blank" aria-label="Open Twitter" rel="noopener">
-						<ws-button>🐦 Say hi on Twitter</ws-button>
+					<a href="https://github.com/threelee" target="_blank" aria-label="Open Twitter" rel="noopener">
+						<ws-button>🐦Team-1 팀페이지</ws-button>
 					</a>
-					<a href="https://www.buymeacoffee.com/AndreasMehlsen" target="_blank" aria-label="Buy coffee" rel="noopener">
-						<ws-button>☕️ Support me with a cup of coffee</ws-button>
+					<a href="https://www.oss.kr/" target="_blank" aria-label="Buy coffee" rel="noopener">
+						<ws-button>☕️ 오픈소스소프트웨어</ws-button>
 					</a>
 				</div>
 			</footer>
