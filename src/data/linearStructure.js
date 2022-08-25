@@ -106,11 +106,11 @@ export const linearStructure = {
 				
 
 				{
-					name: "큐 ",
+					name: "큐",
 					description: {
 						text: "큐 (Queue) : 한쪽 끝에서 삽입되고, 다른 한쪽 끝으로 삭제되는 리스트 구조의 일종",
 						links: [
-							["[문서]", "http://www.ktword.co.kr/test/view/view.php?nav=2&no=443&sh=%ED%81%90"],
+							["[문서] 기술용어 해설", "http://www.ktword.co.kr/test/view/view.php?nav=2&no=443&sh=%ED%81%90"],
 							["[강의] 큐 자료구조 5분만에 이해하기", "https://youtu.be/BdsyG5yP1cQ"],
 							["[강의] 놀라운 스택과 큐의 차이", "https://youtu.be/OeCdHoJa-X0"],
 							["[예제] 회전하는 큐 예제", "https://www.acmicpc.net/problem/1021"],
