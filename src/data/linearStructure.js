@@ -30,7 +30,7 @@ export const linearStructure = {
 				{
 					name: "연결리스트",
 					description: {
-						text: "각 노드가 데이터와 포인터를 가지고 한 줄로 연결되어 있는 방식으로 데이터를 저장하는 자료 구조",
+						text: "연결리스트 (linked list) : 각 노드가 데이터와 포인터를 가지고 한 줄로 연결되어 있는 방식으로 데이터를 저장하는 자료 구조",
 					},
 
 					skills: [
