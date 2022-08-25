@@ -70,7 +70,7 @@ export const nonLinearStructure = {
 								]}
 						},
 						{
-							name: "무방향 그래프 ",
+							name: "무방향 그래프",
 							description: {
 								text: "무방향 그래프 (Undirected Graph) : 정점 간에 방향성이 없는 그래프",
 								links: [
