@@ -52,7 +52,7 @@ export async function openHelp () {
 			<div tabindex="0"></div>
 			<ws-button id="close" @click="${() => $dialog.close()}" aria-label="Close dialog">✖️</ws-button>
 			
-			<h2>Web Skills FAQ</h2>
+			<h2>DataStructure Master?</h2>
 
 			<h3>이 프로젝트는 무엇을 위한 것인가</h3>
 			<p>'Datastructure Master'는 컴퓨터공학 전공자와 비전공자를 포함한 자료구조를 학습하고자 하는 학생들의 자료구조에 대한 이해 능력을 증진하기 위한 프로젝트임
