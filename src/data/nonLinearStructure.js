@@ -52,7 +52,7 @@ export const nonLinearStructure = {
 				{
 					name: "그래프",
 					description: {
-						text: "그래프 (Graph) : 이해를 돕기위해 단순화시킨 그림",
+						text: "그래프 (Graph) : 그래프는 정점과 정점을 연결하는 간선으로 구성된 한정된 자료구조",
 						
 					},
 
