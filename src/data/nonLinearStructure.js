@@ -58,7 +58,7 @@ export const nonLinearStructure = {
 
 					skills: [
 						{
-							name: "방향 그래프",
+							name: "방향그래프",
 							description: {
 								text: "방향 그래프 (Directed Graph) : 정점 간에 방향성이 있는 그래프",
 								links: [
@@ -70,7 +70,7 @@ export const nonLinearStructure = {
 								]}
 						},
 						{
-							name: "무방향 그래프",
+							name: "무방향그래프",
 							description: {
 								text: "무방향 그래프 (Undirected Graph) : 정점 간에 방향성이 없는 그래프",
 								links: [
