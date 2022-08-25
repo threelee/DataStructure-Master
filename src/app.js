@@ -690,7 +690,7 @@ export class App extends LitElement {
 			</div>
 			<header id="header">
 				<div>
-					<a href="https://github.com/andreasbm/web-skills" target="_blank" rel="noopener" aria-label="Open Github" title="Open Github">
+					<a href="https://github.com/threelee/DataStructure-Master" target="_blank" rel="noopener" aria-label="Open Github" title="Open Github">
 						<ws-icon hoverable .template="${githubIconTemplate}"></ws-icon>
 					</a>
 					${user != null ? html`
@@ -710,9 +710,6 @@ export class App extends LitElement {
 					<ws-button aria-label="Share website" @click="${this.share}" title="Open share menu">
 						<ws-icon .template="${shareIconTemplate}"></ws-icon>
 					</ws-button>
-					<a aria-label="Open author" href="https://andreasbm.github.io" target="_blank" rel="noopener" title="Say hi">
-						<ws-icon hoverable .template="${andreasIconTemplate}" ></ws-icon>
-					</a>
 				</div>
 			</header>
 			<main id="collections">
