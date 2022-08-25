@@ -690,7 +690,7 @@ export class App extends LitElement {
 			</div>
 			<header id="header">
 				<div>
-					<a href="https://github.com/andreasbm/web-skills" target="_blank" rel="noopener" aria-label="Open Github" title="Open Github">
+					<a href="https://github.com/threelee/DataStructure-Master" target="_blank" rel="noopener" aria-label="Open Github" title="Open Github">
 						<ws-icon hoverable .template="${githubIconTemplate}"></ws-icon>
 					</a>
 					${user != null ? html`
