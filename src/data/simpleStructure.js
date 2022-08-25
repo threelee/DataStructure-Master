@@ -23,7 +23,7 @@ export const simpleStructure = {
 			]
 		},
 		{
-			name: "실수 ",
+			name: "실수",
 			skills: [
 
 
@@ -34,7 +34,7 @@ export const simpleStructure = {
 						links: [
 							[" [문서] 기술용어 해설", "http://www.ktword.co.kr/test/view/view.php?nav=2&no=4772&sh=%EC%8B%A4%EC%88%98"],
 							[" [문서] 개념설명 블로그", "https://gusdnd852.tistory.com/164"],
-							[" [강의] 실수표현-고정 소수점, 부동 소수점, IEEE 754 표준 ", "https://www.youtube.com/watch?v=g_S24b9Q2_8"],
+							[" [강의] 실수표현-고정 소수점, 부동 소수점, IEEE 754 표준", "https://www.youtube.com/watch?v=g_S24b9Q2_8"],
 							[" [예제] 구조체를 이용한 실수 계산 예제", "https://www.acmicpc.net/problem/9411"],
 							[" [예제] 부분 문자열을 이용한 실수 계산 예제", "https://www.acmicpc.net/problem/13123"],
 							[" [예제] 주어진 수학 공식을 이용한 실수 계산 예제", "https://www.acmicpc.net/problem/24057"],
