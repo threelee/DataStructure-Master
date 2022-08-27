@@ -1,6 +1,6 @@
 # DataStructure-Master
 
-![Datastructure-Master-Chrome-2022-08-27-19-57-29-_online-video-cutter com_](https://user-images.githubusercontent.com/45378755/187027615-7e187927-07db-40b2-a9bc-9c6956368025.gif)
+![ezgif com-gif-maker22](https://user-images.githubusercontent.com/45378755/187027763-3c87ea45-7082-487a-959a-2a2be9bc0374.gif)
 
 
 ## 1. 프로젝트의 목적 및 용도
