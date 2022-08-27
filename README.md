@@ -1,6 +1,6 @@
 # DataStructure Master
 
-
+![ezgif com-gif-maker22](https://user-images.githubusercontent.com/45378755/187030133-cf5a4582-4c2c-49d7-bd2e-b502fb7b6fbe.gif)
 
 ## 1. 프로젝트의 목적 및 용도
 
