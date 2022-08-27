@@ -1,46 +1,22 @@
-The MIT License (MIT)
+## 프로젝트의 목적 및 용도
 
-Copyright © 2020 Andreas Mehlsen - andmehlsen@gmail.com - http://github.com/andreasbm
+### 이 프로젝트는 무엇을 위한 것인가
+'Datastructure Master'는 컴퓨터공학 전공자와 비전공자를 포함한 자료구조를 학습하고자 하는 학생들의 자료구조에 대한 이해 능력을 증진하기 위한 프로젝트임
+'Datastructure Master' 프로젝트를 통해 자료구조의 정의, 개념과 같은 기초 지식을 쌓고, 그 지식을 프로그래밍 언어로 구현함으로써 자료구조 학습을 단계적으로 진행할 수 있도록 도움을 줌
+또한 'Datastructure Master' 프로젝트는 정의, 개념, 구현을 한 페이지에 제공함으로써 자료구조 지식에 관한 접근 용이성을 편리하게 함
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+### 어떤 문제를 해결할 수 있는가?
+자료구조의 올바른 정의와 개념을 정립함
+자료구조의 구현 방법 및 활용 방법을 정립함
+자료구조를 각종 프로그래밍 언어로 구현해봄으로써 프로그래밍 실력 향상에 기여함
+다양한 예제 문제를 통해서 자료구조에 대한 이해도를 자각함
+프로그래밍의 기반이 되는 자료구조를 학습함으로써 컴퓨터 과학에서 효율적인 접근 및 수정을 가능케 하는 자료의 조직, 관리, 저장 가능
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+### 왜 이 프로젝트가 유용한가
+알기 쉬운 UI, 링크를 모아둠으로써 접근성 향상
+유튜브 미디어 시각 자료를 활용함으로써 이해 증진 활용에 효과적 
 
-THE SOFTWARE IS PROVIDED "AS IS WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-========================
-
-Many of the icons used for this project are based on icons found at https://flaticon.com. The following authors are therefore credited for the amazing work they have done with the icons. Go check them out if you want to see more awesome icons!
-
-* freepik
-* smashicons
-* vectors-market
-* retinaicons
-* roundicons
-* srip
-* vitaly-gorbachev
-* pixelmeetup
-* eucalyp
-* pixel-perfect
-* pixel-buddha
-* good-ware
-* surang
-* monkik
-* roundicons
-* creaticca-creative-agency
-* mynamepong
-* ultimatearm
-* itim2101
-* dave-gandy
-* photo3idea-studio
-* turkkub
-* surang
-* pongsakornred
-* nikita-golubev
-* iconixar
-* payungkead
-* roundicon
-* smalllikeart
-* prettycons
-* pixelmeetup
-* pongsakornRed
+### 어떤 사람들이 이 프로젝트를 사용하면 좋은가
+컴퓨터 과학을 전공하는 전공자
+프로그래밍 언어를 독학하고자 하는 비전공자
+자료구조에 대한 기초 지식을 쌓아 지식 기반을 탄탄히 하고자 하는 학생
